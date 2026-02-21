@@ -1,0 +1,23 @@
+{
+  "name": "productivity-webapp",
+  "version": "1.0.0",
+  "description": "webapp which helps students stay productive ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axshay-gopal/Productivity-webapp.git"
+  },
+  "author": "axshay-gopal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axshay-gopal/Productivity-webapp/issues"
+  },
+  "homepage": "https://github.com/axshay-gopal/Productivity-webapp#readme",
+  "dependencies": {
+    "4": "^0.0.0",
+    "express": "^5.2.1"
+  }
+}
